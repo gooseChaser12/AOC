@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# build and run
+ocamlopt -o day1 day1.ml && exec ./day1
