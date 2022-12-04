@@ -1,10 +1,4 @@
 '''
-Every section has a unique ID number
-
-Each elf assigned to a range of section IDs
-
-Many of assignments overlap
-
 Some assignments fully contanin another.
     2-9 fully contains 3-7
 '''
