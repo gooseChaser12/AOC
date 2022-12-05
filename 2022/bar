@@ -2,4 +2,4 @@
 
 # build and run
 # ocamlopt -o day1 day1.ml && exec ./day1
-ocamlopt -o day3 day3.ml && exec ./day3
+# ocamlopt -o day3 day3.ml && exec ./day3
