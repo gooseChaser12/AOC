@@ -85,7 +85,7 @@ def handler(lines):
 
 def main():
     try:
-        f = open("day5.txt", mode='r', encoding='utf-8')
+        f = open("../input/day5.txt", mode='r', encoding='utf-8')
         lines = f.readlines()
         ans = handler(lines)
         print("ANS 1 : ", ans[0])

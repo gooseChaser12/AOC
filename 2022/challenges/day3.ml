@@ -11,7 +11,7 @@ MATT COMMENT:
 
 *)
 
-let file = "day3.txt"
+let file = "../input/day3.txt"
 
 
 exception EOF of string list

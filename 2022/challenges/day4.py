@@ -55,7 +55,7 @@ def get_answers(lines):
 
 def main():
     try:
-        f = open("day4.txt", mode='r', encoding='utf-8')
+        f = open("../input/day4.txt", mode='r', encoding='utf-8')
         lines = f.readlines()
         anst = get_answers(lines)
         print("ANS 1 : ", anst[0])

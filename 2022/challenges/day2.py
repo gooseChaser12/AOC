@@ -87,7 +87,7 @@ def rps_end_score(lines):
 
 def main():
     try:
-        f = open("day2.txt", mode='r', encoding='utf-8')
+        f = open("../input/day2.txt", mode='r', encoding='utf-8')
         lines = f.readlines()
         print("ANS 1 : ", rps_score(lines))
         print("ANS 2 : ", rps_end_score(lines))

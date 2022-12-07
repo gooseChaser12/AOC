@@ -51,7 +51,7 @@ def top_three(lines):
 
 def main():
     try:
-        f = open("day1.txt", mode='r', encoding='utf-8')
+        f = open("../input/day1.txt", mode='r', encoding='utf-8')
         lines = f.readlines()
         print("ANS 1 : ", max_cals(lines))
         print("ANS 2 : ", top_three(lines))

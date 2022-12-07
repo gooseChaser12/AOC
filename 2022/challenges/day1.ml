@@ -17,7 +17,7 @@ Second elf  -- total of 4000 cals
 
 (* GOAL : Find elf carrying the most calories *)
 
-let file = "day1.txt"
+let file = "../input/day1.txt"
 
 (* Calculate most cals from elf *)
 let max_calories (calories_list : int list) =
